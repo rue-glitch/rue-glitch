@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 I'm a Computer Science and Cognitive Science freshman at the University of Toronto. I'm currently working on MLH's Local Hack Day: Build!
+I'm currently learning React!
+
+Fun fact: I'm coffee addict!
 <!--
 **rue-glitch/rue-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
