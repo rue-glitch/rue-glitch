@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rue
 #### I build virtual homes for your products
-![I build virtual homes for your products](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I build virtual homes for your products](https://github.com/rue-glitch/rue-glitch/blob/main/LinkedIn%20Banner.png)
 
 📌I am a software developer focusing on building products that improve one's life convenience. I've honed my technical skills by attending 12 hackathons {P.S. I've won 4 of them!} and through 3 internships at seed-level startups.
 📌I'm a second-year Cognitive Science: Computational stream major with double minors in Computer Science and Statistics at the University of Toronto.
